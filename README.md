@@ -12,5 +12,5 @@ The tools I used for the project was python and VSCode. I used Python for this a
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Activity Portfolio]https://byui-cse.github.io/cse310-ww-course/week01/activity_portfolio.html
-* [Markdown Cheat Sheet]https://www.markdownguide.org/cheat-sheet/
+* [Activity Portfolio](https://byui-cse.github.io/cse310-ww-course/week01/activity_portfolio.html)
+* [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
